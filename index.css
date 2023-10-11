@@ -1,0 +1,214 @@
+.ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+    padding-left: 700px;
+    font-size: 20px;
+}
+
+.angular{
+    background-image: url(755028771114273.jpg);
+    color: white;
+    padding-bottom: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1{
+    color: white;
+}
+
+button{
+    color: white;
+    background-color: #42bbbd;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+}
+
+.lover{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+.p{
+    width: 500px;
+}
+
+.why{
+    text-align: center;
+}
+
+.design{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.kit{
+    padding-bottom: 100px;
+}
+
+.h2{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.version{
+    margin-left: 500px;
+}
+
+.features{
+    text-align: center;
+}
+
+.discovered{
+    font-size: 30px;
+}
+
+.img{
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+.team{
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+    background-color: gray;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.lover{
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.why{
+    margin-top: 100px;
+}
+
+.ux{
+    color: #42bbbd;
+}
+
+.p2{
+   width: 500px;
+}
+
+.kitg{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #42bbbd;
+}
+
+.pricingg{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.useg{
+    display: flex;
+    flex-direction: row;
+}
+
+.teamg{
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+}
+
+.single{
+    background-color: #76c081;
+    width: 196.812px;
+    color: white;
+    text-align: center;
+}
+
+.multiple{
+    background-color: #57bbed;
+    width: 196.812px;
+    color: white;
+    text-align: center;
+
+}
+
+.extended{
+    background-color: #f6a240;
+    width: 196.812px;
+    color: white;
+    text-align: center;
+}
+
+.application{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.appkit{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.usep{
+    margin-bottom: 50px;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+}
+
+.footerg{
+    margin-top: 0px;
+}
+
+.pricing{
+    margin-bottom: 50px;
+}
+
+.h2m{
+    font-size: 15px;
+}
+
+.buttonm{
+    margin-bottom: 10px;
+}
+
+.sea{
+    background-color: #f5f5f5;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.featuresg{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.pa{
+    width: 600px;
+    margin-left: 300px;
+}
+
+.px{
+    width: 150px;
+}
